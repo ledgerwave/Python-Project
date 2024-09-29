@@ -1,0 +1,7 @@
+black
+numpy
+qrcode
+rembg
+pillow
+psutil
+types-psutil
