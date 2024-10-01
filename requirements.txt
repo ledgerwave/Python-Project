@@ -1,6 +1,7 @@
 black
 numpy
 qrcode
+types-qrcode
 rembg
 pillow
 psutil
