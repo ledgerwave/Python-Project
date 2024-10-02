@@ -2,3 +2,4 @@ venv
 practice
 *.jpg
 *.png
+.env
