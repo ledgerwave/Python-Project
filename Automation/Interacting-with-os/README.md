@@ -162,6 +162,6 @@ is_file = os.path.isfile('file.txt')
 is_directory = os.path.isdir('some_directory')
 ```
 
-## Conclusion
+## File handling
 
-This guide covered essential features of the `os` module, focusing on file and directory manipulation, environment variables, and system information. The `os` module is a powerful tool for interacting with the operating system in Python.
+Python file handling is covered in this repository. You can refer to the [File Handling in Python](https://github.com/Sarmad426/Python/tree/main/6-File-IO)
