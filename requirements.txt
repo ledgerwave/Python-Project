@@ -8,3 +8,4 @@ psutil
 types-psutil
 python-dotenv
 tk
+streamlit
