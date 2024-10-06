@@ -2,11 +2,14 @@
 Markdown formatting remover using REGEX and streamlit
 """
 
-import streamlit as st
 import re
+import streamlit as st
 
 
-def remove_markdown_formatting(text):
+def remove_markdown_formatting(text: str) -> str:
+    """
+    Removes markdown formatting from the given text.
+    """
     # Remove headers
     text = re.sub(r"^\s*#{1,6}\s*", "", text, flags=re.MULTILINE)
     # Remove emphasis (single * or _)
@@ -39,4 +42,3 @@ if st.button("Remove Formatting"):
 
     # Button to copy unformatted text
     st.code(unformatted_text, language="text")
-    st.write("Copy the above text manually.")
