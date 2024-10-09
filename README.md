@@ -2,6 +2,15 @@
 
 This repository contains a collection of Python projects. The main goal of this Repo was to **Automate** things using Python. There are also other projects which are not related to automation. It covers a wide range of projects, focused more towards using a variety of python libraries.
 
+The UI of the projects is developed using **Streamlit**.
+
+## Featured Project
+
+- GUI calculator
+- Image background remover
+- Markdown formatting remover
+- QR code generator
+
 ## Learning Python
 
 **Python**. <https://github.com/Sarmad426/Python>
