@@ -20,3 +20,9 @@ Back end **API** development using **Fast API**. <https://github.com/Sarmad426/F
 Learn **AI** and **Data Science**. <https://github.com/Sarmad426/AI>
 
 Learn **Generative AI**. <https://github.com/Sarmad426/Generative-AI>
+
+**Run streamlit project:**
+
+```bash
+streamlit run app.py
+```
